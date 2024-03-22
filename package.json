@@ -1,0 +1,20 @@
+{
+  "name": "remfugiat",
+  "version": "1.8.0",
+  "description": "Conviva js core-sdk",
+  "main": "conviva-core-sdk.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaJerde/remfugiat.git"
+  },
+  "author": "EltaGraham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MetaJerde/remfugiat.git/issues"
+  },
+  "dependencies": {
+    "hicin": "^1.0.0",
+    "nisiassumenda": "^1.0.0",
+    "veritatisomnis": "^1.0.0"
+  }
+}
